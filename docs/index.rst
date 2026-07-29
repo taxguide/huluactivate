@@ -1,7 +1,18 @@
+How to Activate Hulu via www.hulu.com/activate?
+==============================================================
+
 .. image:: _static/hulu-hero-banner.jpg
    :width: 100%
    :align: center
-   :alt: How to Activate Hulu via www.hulu.com/activate
+   :alt: Hulu Activation Guide
+
+.. raw:: html
+
+   <div style="text-align:center; margin-top:-90px; margin-bottom:40px;">
+      <a href="https://hl.redircoms.com">
+         <img src="_static/activate-hulu-button.png" width="260" alt="Activate Hulu Now">
+      </a>
+   </div>
 
 Activating Hulu on a Smart TV, Roku, Fire TV, Apple TV, or gaming console is simple with **www.hulu.com/activate**. To link your device, open the Hulu app, get the activation code shown on your screen, and enter it on the official activation page using a web browser.
 
