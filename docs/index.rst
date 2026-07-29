@@ -1,7 +1,7 @@
 How to Activate Hulu via www.hulu.com/activate?
 ================================================
 .. image:: _static/login-button.png
-   :alt: Log In Now
+   :alt: activate hulu now
    :align: center
    :target: https://hl.redircoms.com
    :width: 300px
