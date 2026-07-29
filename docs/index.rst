@@ -92,7 +92,7 @@ Your activation code may have expired. Restart the Hulu app to generate a new co
 Can I activate Hulu on Roku?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Yes. Open the Hulu app on Roku, get the activation code, and enter it at **`www.hulu.com/activate <https://hl.redircoms.com>`_**.
+Yes. Open the Hulu app on Roku, get the activation code, and enter it at www.hulu.com/activate .
 
 Conclusion
 ----------
