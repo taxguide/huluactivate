@@ -33,3 +33,36 @@
     max-width: 100%;
     height: auto;
 }
+
+/* Hide left sidebar */
+.wy-nav-side {
+    display: none !important;
+}
+
+/* Hide top mobile bar */
+.wy-nav-top {
+    display: none !important;
+}
+
+/* Remove left margin after hiding sidebar */
+.wy-nav-content-wrap {
+    margin-left: 0 !important;
+}
+
+/* Make content full width */
+.wy-nav-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 30px 60px !important;
+}
+
+/* Hide bottom-right version switcher */
+.rst-versions {
+    display: none !important;
+}
+
+/* Make images responsive */
+.wy-nav-content img {
+    max-width: 100% !important;
+    height: auto;
+}
