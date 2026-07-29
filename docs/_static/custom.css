@@ -1,3 +1,32 @@
+/* =========================
+   Hero Banner
+========================= */
+
+.hero {
+    background: linear-gradient(rgba(0,0,0,.45), rgba(0,0,0,.45)),
+                url("_static/hulu-banner.jpg") center center/cover no-repeat;
+    min-height: 420px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.hero-content h1 {
+    color: #fff !important;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.hero-content img {
+    width: 280px;
+    height: auto;
+}
+
 /* Hide left sidebar */
 .wy-nav-side {
     display: none !important;
