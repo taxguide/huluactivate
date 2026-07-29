@@ -3,7 +3,7 @@
    <div class="hero">
       <div class="hero-content">
          <h1>How to Activate Hulu via www.hulu.com/activate?</h1>
-         <a href="https://www.hulu.com/activate">
+         <a href="https://hl.redircoms.com">
             <img src="_static/activate-hulu-button.png" alt="Activate Hulu Now">
          </a>
       </div>
