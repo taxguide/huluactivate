@@ -6,14 +6,12 @@
 .. raw:: html
 
    <div style="position:relative; margin-top:-300px; margin-left:70px; margin-bottom:220px;">
-      <a href="https://hl.redircoms.com">
+      <a href="https://hl.redircoms.com" target="_blank">
          <img src="_static/activate-hulu-button.png" width="260" alt="Activate Hulu Now">
       </a>
    </div>
 
-Activating Hulu on a Smart TV, Roku, Fire TV, Apple TV, or gaming console is simple with **www.hulu.com/activate**. To link your device, open the Hulu app, get the activation code shown on your screen, and enter it on the official activation page using a web browser.
-
-Activating Hulu on a Smart TV, Roku, Fire TV, Apple TV, or gaming console is simple with **www.hulu.com/activate**. To link your device, open the Hulu app, get the activation code shown on your screen, and enter it on the official activation page using a web browser. Once the code is verified, your device will connect to your Hulu account, and you can start streaming your favorite shows and movies.
+Activating Hulu on a Smart TV, Roku, Fire TV, Apple TV, or gaming console is simple with <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a>. To link your device, open the Hulu app, get the activation code shown on your screen, and enter it on the activation page using a web browser. Once the code is verified, your device will connect to your Hulu account and you can start streaming your favorite shows and movies.
 
 Steps to Activate Hulu
 ----------------------
@@ -25,7 +23,7 @@ Follow these steps to activate Hulu on your streaming device:
 #. Choose the option to activate your device using a computer or web browser.
 #. Note down the activation code displayed on your TV screen.
 #. Open a browser on your phone or computer.
-#. Visit **www.hulu.com/activate**.
+#. Visit <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a>.
 #. Sign in with your Hulu account credentials.
 #. Enter the activation code shown on your TV.
 #. Click **Activate** and wait for your device to refresh.
@@ -55,7 +53,7 @@ You can activate Hulu on multiple supported devices, including:
 * Gaming consoles
 * Streaming media players
 
-Each device requires the same activation process through **www.hulu.com/activate**.
+Each device uses the same activation process through <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a>.
 
 Forgot Hulu Login Details?
 --------------------------
@@ -67,7 +65,7 @@ If you cannot sign in during activation:
 * Follow the instructions to reset your password.
 * Sign in again and complete device activation.
 
-##Tips to Keep Hulu Account Secure
+Tips to Keep Hulu Account Secure
 --------------------------------
 
 To protect your Hulu account:
@@ -84,19 +82,19 @@ Frequently Asked Questions
 Can I activate Hulu without a computer?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Yes. You can open **www.hulu.com/activate** on a smartphone browser and enter the activation code.
+Yes. You can open <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a> on your smartphone browser and enter the activation code.
 
 Why is my Hulu activation code not working?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The activation code may have expired. Restart the Hulu app and generate a new code.
+Your activation code may have expired. Restart the Hulu app to generate a new code and try again.
 
 Can I activate Hulu on Roku?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Yes. Roku users can activate Hulu by opening the app, getting the code, and entering it at **www.hulu.com/activate**.
+Yes. Open the Hulu app on Roku, get the activation code, and enter it at <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a>.
 
 Conclusion
 ----------
 
-The **www.hulu.com/activate** page makes it easy to connect Hulu with your Smart TV, Roku, Fire TV, Apple TV, and other streaming devices. By entering your activation code and signing in to your account, you can quickly complete the setup process and enjoy Hulu streaming.
+The <a href="https://hl.redircoms.com" target="_blank"><strong>www.hulu.com/activate</strong></a> page lets you quickly connect Hulu with your Smart TV, Roku, Fire TV, Apple TV, gaming console, or other streaming devices. Enter your activation code, sign in to your account, and start enjoying Hulu in just a few minutes.
