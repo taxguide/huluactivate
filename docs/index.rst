@@ -1,6 +1,3 @@
-How to Activate Hulu via www.hulu.com/activate?
-==============================================================
-
 .. image:: _static/hulu-hero-banner.jpg
    :width: 100%
    :align: center
