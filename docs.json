@@ -1,1 +1,18 @@
-
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Hulu Activate",
+  "theme": "mint",
+  "colors": {
+    "primary": "#1DB954",
+    "light": "#22c55e",
+    "dark": "#16a34a"
+  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "index"
+      ]
+    }
+  ]
+}
