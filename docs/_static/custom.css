@@ -33,6 +33,10 @@
     max-width: 100%;
     height: auto;
 }
+/* Banner ke niche space */
+.wy-nav-content img:first-of-type {
+    margin-bottom: 40px !important;   /* 40px space */
+}
 
 /* Hide left sidebar */
 .wy-nav-side {
