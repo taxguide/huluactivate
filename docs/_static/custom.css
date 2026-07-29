@@ -1,7 +1,4 @@
-/* =========================
-   Hero Banner
-========================= */
-
+/* Hero Banner */
 .hero {
     background: linear-gradient(rgba(0,0,0,.45), rgba(0,0,0,.45)),
                 url("_static/hulu-banner.jpg") center center/cover no-repeat;
@@ -22,40 +19,17 @@
     margin-bottom: 20px;
 }
 
-.hero-content img {
-    width: 280px;
-    height: auto;
+/* Hero button image only */
+.hero-content a img {
+    width: 280px !important;
+    max-width: 280px !important;
+    height: auto !important;
+    display: inline-block;
 }
 
-/* Hide left sidebar */
-.wy-nav-side {
-    display: none !important;
-}
-
-/* Hide top mobile bar */
-.wy-nav-top {
-    display: none !important;
-}
-
-/* Remove left margin after hiding sidebar */
-.wy-nav-content-wrap {
-    margin-left: 0 !important;
-}
-
-/* Make content full width */
-.wy-nav-content {
-    max-width: 100% !important;
-    width: 100% !important;
-    padding: 30px 60px !important;
-}
-
-/* Hide bottom-right version switcher */
-.rst-versions {
-    display: none !important;
-}
-
-/* Make images responsive */
-.wy-nav-content img {
-    max-width: 100% !important;
+/* Article images only */
+.wy-nav-content > div img,
+.wy-nav-content p img {
+    max-width: 100%;
     height: auto;
 }
