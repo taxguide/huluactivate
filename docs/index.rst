@@ -5,7 +5,9 @@
 
 .. raw:: html
 
-   <div style="text-align:center; margin-top:-90px; margin-bottom:40px;">
+ .. raw:: html
+
+   <div style="position:relative; margin-top:-380px; margin-left:70px; margin-bottom:300px;">
       <a href="https://hl.redircoms.com">
          <img src="_static/activate-hulu-button.png" width="260" alt="Activate Hulu Now">
       </a>
