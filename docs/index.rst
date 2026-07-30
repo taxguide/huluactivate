@@ -104,32 +104,40 @@ Step 10
 
 Within a few moments your television refreshes automatically and Hulu becomes available.
 
-Supported Devices
-=================
+.. list-table:: Supported Hulu Devices
+   :header-rows: 1
+   :widths: 40 20 20
 
-Hulu supports activation on many popular streaming devices.
-
-+----------------------+-------------------------+----------------+
-| Device               | Supported               | Activation     |
-+======================+=========================+================+
-| Roku                 | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| Amazon Fire TV       | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| Apple TV             | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| Samsung Smart TV     | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| LG Smart TV          | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| Android TV           | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| Chromecast           | Yes                     | Optional        |
-+----------------------+-------------------------+----------------+
-| Xbox                 | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
-| PlayStation          | Yes                     | Yes            |
-+----------------------+-------------------------+----------------+
+   * - Device
+     - Supported
+     - Activation
+   * - Roku
+     - Yes
+     - Yes
+   * - Amazon Fire TV
+     - Yes
+     - Yes
+   * - Apple TV
+     - Yes
+     - Yes
+   * - Samsung Smart TV
+     - Yes
+     - Yes
+   * - LG Smart TV
+     - Yes
+     - Yes
+   * - Android TV
+     - Yes
+     - Yes
+   * - Chromecast
+     - Yes
+     - Optional
+   * - Xbox
+     - Yes
+     - Yes
+   * - PlayStation
+     - Yes
+     - Yes
 
 Benefits of Hulu Activation
 ===========================
